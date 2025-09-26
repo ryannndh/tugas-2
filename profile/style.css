@@ -6,7 +6,7 @@ body {
 
 /* Header */
 header {
-    background-color: #f0f0f0;
+    background-color: #0d3b91;
     padding: 20px;
     text-align: center;
 }
@@ -39,14 +39,14 @@ nav ul li a:hover {
 /* Section */
 section {
     margin: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #580909;
     padding: 15px;
     box-shadow: 0 0 5px #aaa;
 }
 
 /* Footer */
 footer {
-    background-color: #f0f0f0;
+    background-color: #2d3061;
     padding: 10px;
     text-align: center;
 }
